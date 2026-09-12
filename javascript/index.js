@@ -9544,28 +9544,6 @@ let regina = new Queen("Regina Voce", 7, 7, 7, 7, 7, 7, 7, "ReginaVoce");
 let serenaM = new Queen("Serena Morena", 7, 7, 7, 7, 7, 7, 7, "SerenaMorena");
 let vermelha = new Queen("Vermelha Noir", 7, 7, 7, 7, 7, 7, 7, "VermelhaNoir");
 let drmx = [argennis, cristian, gala, kero, margaret, matraka, vallarta, pixiePixie, regina, serenaM, vermelha];
-//HOUSE OF DRAG SEASON 1
-let bunnyh = new Queen("Bunny Holiday", 7, 7, 7, 7, 7, 7, 7, "BunnyH");
-let hugo = new Queen("Hugo Grrrl", 7, 7, 7, 7, 7, 7, 7, "Hugo");
-let leidy = new Queen("Leidy Lei", 7, 7, 7, 7, 7, 7, 7, "Leidy");
-let lola = new Queen("Lola Blades", 7, 7, 7, 7, 7, 7, 7, "Lola");
-let luna = new Queen("Luna", 7, 7, 7, 7, 7, 7, 7, "Luna");
-let medulla = new Queen("Medulla Oblongata", 7, 7, 7, 7, 7, 7, 7, "Medulla");
-let shavorn = new Queen("Shavorn Aborealis", 7, 7, 7, 7, 7, 7, 7, "Shavorn");
-let trinityice = new Queen("Trinity Ice", 7, 7, 7, 7, 7, 7, 7, "TrinityIce");
-let vulga = new Queen("Vulga Titz", 7, 7, 7, 7, 7, 7, 7, "Vulga");
-let hod1 = [bunnyh, hugo, leidy, lola, luna, medulla, shavorn, trinityice, vulga];
-//HOUSE OF DRAG SEASON 2
-let willy = new Queen("Willy SmacknTush", 7, 7, 7, 7, 7, 7, 7, "Willy");
-let bionica = new Queen("Bionica", 7, 7, 7, 7, 7, 7, 7, "Bionica");
-let claire = new Queen("Claire Voyant", 7, 7, 7, 7, 7, 7, 7, "Claire");
-let lilly = new Queen("Lilly Loca", 7, 7, 7, 7, 7, 7, 7, "Lilly");
-let missG = new Queen("Miss Geena", 7, 7, 7, 7, 7, 7, 7, "MissG");
-let rhubarb = new Queen("Rhubarb Rouge", 7, 7, 7, 7, 7, 7, 7, "Rhubarb");
-let stabitha = new Queen("Stabitha", 7, 7, 7, 7, 7, 7, 7, "Stabitha");
-let jen = new Queen("Jen Tré Fire", 7, 7, 7, 7, 7, 7, 7, "Jen");
-let kellyf = new Queen("Kelly Fornia", 7, 7, 7, 7, 7, 7, 7, "KellyF");
-let hod2 = [spankie, elektra, willy, bionica, claire, flor, lilly, missG, rhubarb, stabitha, jen, kellyf]
 //SECRET CELEBRITY DRAG RACE
 let chakra = new Queen("Chakra 7", 7, 7, 7, 7, 7, 7, 7, "Chakra");
 let chic = new Queen("Chic-Li-Fay", 7, 7, 7, 7, 7, 7, 7, "Chic");
@@ -9577,24 +9555,25 @@ let milli = new Queen("Milli Von Sunshine", 7, 7, 7, 7, 7, 7, 7, "Milli");
 let poppylove = new Queen("Poppy Love", 7, 7, 7, 7, 7, 7, 7, "PoppyL");
 let thirsty = new Queen("Thirsty Von Trap", 7, 7, 7, 7, 7, 7, 7, "Thirsty");
 let scdr = [chakra, chic, donna, electra, fab, jackieW, milli, poppylove, thirsty]
-//QUEENS OUT OF DRAG 
-let mollyOFD = new Queen("Molly Poppinz 2", 8, 12, 4, 6, 10, 6, 12, "MollyOFD");
-let kaosOFD = new Queen("Kaos 2", 7, 11, 5, 4, 10, 6, 12, "KaosOFD");
-let hannahOFD = new Queen("Hannah Conda 2", 8, 14, 8, 5, 8, 4, 4, "HannahOFD");
-let jinkxOFD = new Queen("Jinkx Monsoon 2", 10, 5, 7, 3, 8, 4, 5, "JinkxOFD");
-let victoriaOFD = new Queen("Victoria Scone 2", 5, 12, 6, 8, 6, 4, 8, "VictoriaOFD");
-let vanityOFD = new Queen("Vanity Milan 2", 6, 7, 8, 4, 12, 13, 8, "VanityOFD");
-let briocheeOFD = new Queen("La Briochee 2", 10, 8, 7, 6, 9, 10, 5, "BrioOFD");
-let ellaOFD = new Queen("Ella Vaday 2", 6, 10, 15, 6, 2, 5, 8, "EllaOFD");
-let ofd1 = [mollyOFD, kaosOFD, hannahOFD, jinkxOFD, victoriaOFD, briocheeOFD, ellaOFD, vanityOFD];
-//SPECIAL 
-let pangina = new Queen("Pangina Heals", 9, 7, 14, 11, 8, 13, 14, "Pangina");
-let ukvstw = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
-let canvstw = [anita, icesis, kendall, rajah, rita, silky, stephanie, victoriaS, vanity];
-let ukvstw2 = [hannah, scarlet, tia, choriza, mayhem, grandedame, gothy, jonbers, arantxa, keta, marinaSummers];
-let duas = [art, cocoj, beverly, molly, minnie, ivanna, amyl, pomara, etc, ritaMenu];
-let cas = [ilona, juice, bobo, synthia, kendall, stephanie, kimmy, fiercalicious, jadashada, irma, oceane, suki];
-let ukas = [cheryl, crystaluk, baga, sister, asttina, veronica, charity, victoriaS, baby, dakota, ellie, jonbers];
+//SEASON 16
+let amandat = new Queen("Amanda Tori Meating", 4, 8, 14, 9, 10, 11, 13, "AmandaT");
+let dawn = new Queen("Dawn", 5, 5, 12, 9, 3, 8, 11, "Dawn");
+let geneva = new Queen("Geneva Karr", 8, 11, 6, 13, 12, 13, 6, "Geneva");
+let hershii = new Queen("Hershii LiqCour-Jeté", 6, 7, 6, 5, 5, 7, 7, "Hershii");
+let megami = new Queen("Megami", 3, 4, 3, 5, 4, 12, 4, "Megami");
+let mhiya = new Queen("Mhi'ya Iman Le'Paige", 9, 10, 5, 6, 7, 8, 14, "Mhiya");
+let mirage = new Queen("LaLa Ri", 5, 7, 10, 2, 6, 9, 14, "Mirage"); 
+let morphine = new Queen("Morphine Love Dion", 11, 5, 11, 10, 8, 11, 8, "Morphine");
+let nymphia = new Queen("Nymphia Wind", 12, 11, 13, 8, 10, 10, 6, "Nymphia");
+let plane = new Queen("Plane Jane", 14, 7, 7, 9, 12, 13, 13, "Plane");
+let plasma = new Queen("Plasma", 7, 6, 7, 5, 6, 7, 7, "Plasma");
+let q = new Queen("Q", 6, 6, 10, 5, 6, 8, 9, "Q");
+let sapphira = new Queen("Sapphira Cristál", 7, 4, 6, 15, 5, 12, 11, "Sapphira");
+let xunami = new Queen("Xunami Muse", 7, 4, 6, 15, 5, 12, 11, "xunami");
+let us_season16 = [amandat, dawn, geneva, hershii, megami, mhiya, mirage, morphine, nymphia, plane, plasma, q, sapphira, xunami];
+//ALL STARS 10
+let allstars_10 = [acid, alyssaH, bosco, cynthia, daya, deja, denali, ginger, irene, jorgeous, kerri, lydia, mistress, nicole, olivia, phoenix, tina];
+
 //all possible queens:
 let allCustomQueens = [];
 if (localStorage.getItem("customQueens") != null)
@@ -9649,7 +9628,8 @@ let allQueens = [
     argennis, cristian, gala, kero, margaret, matraka, vallarta, pixiePixie, regina, serenaM, vermelha, bunnyh, hugo, leidy, lola, luna, medulla, shavorn, trinityice, vulga,
     willy, bionica, claire, lilly, missG, rhubarb, stabitha, jen, kellyf, 
     chakra, chic, donna, electra, fab, jackieW, milli, poppylove, thirsty,
-    pangina, mollyOFD, kaosOFD, jinkxOFD, hannahOFD, vanityOFD, ellaOFD, briocheeOFD, victoriaOFD, arizona, astrid, bernie, katkat, dee, hana, m1ss, matilduh, pardaux, ovcunt, tiny, veruschka
+	amandat, dawn, geneva, hershii, megami, mhiya, mirage, morphine, nymphia, plane, plasma, q, sapphira, xunami,
+    pangina, arizona, astrid, bernie, katkat, dee, hana, m1ss, matilduh, pardaux, ovcunt, tiny, veruschka
     
 ].concat(allCustomQueens).sort((a, b) => a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()));
 let allQueensCopy = [];
@@ -12300,8 +12280,8 @@ let lsSongs = ["Supermodel by RuPaul",
 "Disturbia by Rihanna",
 "Jantasy by Jan",
 "Vive Tus Sueños by Raini Rodriguez",
-"Butter by BTS",
-"Dynamite by BTS",
+"Touch by KATSEYE",
+"Little Miss by GIRLSET",
 "Bite Me by Avril Lavigne",
 "Sneakernight by Vanessa Hudgens",
 "1000 Doves by Lady Gaga",
@@ -12346,6 +12326,10 @@ let lsSongs = ["Supermodel by RuPaul",
 "Backstabber by Ke$ha",
 "Come To Your Senses by Alexandra Shipp",
 "Star by Loona",
+"Blue Blood by ARTMS",
+"Kiss a Kitty by Chuu",
+"Soap (feat. PinkPantheress) by Yves",
+"Sugar Water Cyanide by Rebecca Black",
 "Magic by Wrabel",
 "Edge of Seventeen by Stevie Nicks",
 "Fascinated by Company B",
@@ -12402,7 +12386,8 @@ let lsSongs = ["Supermodel by RuPaul",
 "Hallucinate by Dua Lipa",
 "The Motto by Tiesto & Ava Max",
 "BIZCOCHITO by Rosalia",
-"Good Form by Nicki Minaj",
+"Stateside (feat. Zara Larsson) by PinkPantheress",   
+"Pretty Ugly by Zara Larsson",
 "Deepthroat by Cupcakke",
 "Mi Delirio by Anahí",
 "Ser O Parecer by RBD",
