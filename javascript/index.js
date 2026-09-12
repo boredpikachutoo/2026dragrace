@@ -9569,7 +9569,7 @@ let plane = new Queen("Plane Jane", 14, 7, 7, 9, 12, 13, 13, "Plane");
 let plasma = new Queen("Plasma", 7, 6, 7, 5, 6, 7, 7, "Plasma");
 let q = new Queen("Q", 6, 6, 10, 5, 6, 8, 9, "Q");
 let sapphira = new Queen("Sapphira Cristál", 7, 4, 6, 15, 5, 12, 11, "Sapphira");
-let xunami = new Queen("Xunami Muse", 7, 4, 6, 15, 5, 12, 11, "xunami");
+let xunami = new Queen("Xunami Muse", 7, 4, 6, 15, 5, 12, 11, "Xunami");
 let us_season16 = [amandat, dawn, geneva, hershii, megami, mhiya, mirage, morphine, nymphia, plane, plasma, q, sapphira, xunami];
 //ALL STARS 10
 let allstars_10 = [acid, alyssaH, bosco, cynthia, daya, deja, denali, ginger, irene, jorgeous, kerri, lydia, mistress, nicole, olivia, phoenix, tina];
